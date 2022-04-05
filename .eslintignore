@@ -1,0 +1,7 @@
+coverage
+**/templates
+*.svg
+*.css
+*.scss
+*.less
+*.sass
